@@ -52,9 +52,5 @@ Aspiring full-stack developer with a strong foundation in software engineering a
 
 ---
 
-## 🧭 Visitor Count:
-[![](https://visitcount.itsvg.in/api?id=manasdp&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 ### 🚀 Let's build something amazing together!
